@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
+犬と便器の蓋をこよなく愛する男  
+知床出身札幌在住  
+社会に対する文句が多いらしい。
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[stsapy@gmail.com](mailto:stsapy@gmail.com)
