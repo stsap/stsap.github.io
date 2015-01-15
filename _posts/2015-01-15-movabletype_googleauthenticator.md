@@ -44,6 +44,11 @@ title: GoogleAuthenticatorとかいう有能
 
 2要素認証を使う設定にした上でQRコードを読み取るのを忘れてサインアウトするともうそのユーザではログインできなくなります。
 
+## 画面イメージ
+
+![ログイン](https://raw.githubusercontent.com/stsap/stsap.github.io/master/images/2015-01-15_1.png)
+
+![ユーザ設定](https://raw.githubusercontent.com/stsap/stsap.github.io/master/images/2015-01-15_1.png)
 
 まだやりたい事はあるけどとりあえず一段落。  
 激しくアルファクオリティなのでご利用はオススメしませんよっと。
