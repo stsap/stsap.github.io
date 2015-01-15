@@ -48,7 +48,7 @@ title: GoogleAuthenticatorとかいう有能
 
 ![ログイン](https://raw.githubusercontent.com/stsap/stsap.github.io/master/images/2015-01-15_1.png)
 
-![ユーザ設定](https://raw.githubusercontent.com/stsap/stsap.github.io/master/images/2015-01-15_1.png)
+![ユーザ設定](https://raw.githubusercontent.com/stsap/stsap.github.io/master/images/2015-01-15_2.png)
 
 まだやりたい事はあるけどとりあえず一段落。  
 激しくアルファクオリティなのでご利用はオススメしませんよっと。
