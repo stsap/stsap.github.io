@@ -32,7 +32,9 @@ title: GoogleAuthenticatorとかいう有能
 
 ## インストール
 
-リポジトリから取ってきて plugins/ に放り込むだけ
+* Auth::GoogleAuthenticator モジュールを入れる
+* mt-plugin-TwoFactorAuthGoogle をリポジトリから取ってきて plugins/ に放り込む
+* お手元のスマホにGoogleAuthenticatorアプリを入れる
 
 ## 設定
 
