@@ -34,7 +34,7 @@ title: GoogleAuthenticatorとかいう有能
 
 * Auth::GoogleAuthenticator モジュールを入れる
 * mt-plugin-TwoFactorAuthGoogle をリポジトリから取ってきて plugins/ に放り込む
-* お手元のスマホにGoogleAuthenticatorアプリを入れる
+* お手元のスマホに[GoogleAuthenticatorアプリ](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CCMQFjAB&url=https%3A%2F%2Fitunes.apple.com%2Fjp%2Fapp%2Fgoogle-authenticator%2Fid388497605%3Fmt%3D8&ei=FGG4VMD2I-exmwXpnoKgAQ&usg=AFQjCNH4_nazIxck2RZDONKAlbdV9P1f8A&sig2=KMcvohoO9r1XFf6Pz7BJtg)を入れる
 
 ## 設定
 
@@ -51,6 +51,12 @@ title: GoogleAuthenticatorとかいう有能
 ![ログイン](https://raw.githubusercontent.com/stsap/stsap.github.io/master/images/2015-01-15_1.png)
 
 ![ユーザ設定](https://raw.githubusercontent.com/stsap/stsap.github.io/master/images/2015-01-15_2.png)
+
+## TODO
+
+* Auth::GoogleAuthenticator からの脱却
+* スマホ紛失時用の救済
+* 他の2要素認証システムへの対応([Yahoo](http://id.yahoo.co.jp/security/otp.html)とかSMSとか？)
 
 まだやりたい事はあるけどとりあえず一段落。  
 激しくアルファクオリティなのでご利用はオススメしませんよっと。
